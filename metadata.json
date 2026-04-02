@@ -1,0 +1,5 @@
+{
+  "name": "Multimodal AI Explorer",
+  "description": "An interactive tool to analyze images and ask questions using Gemini AI.",
+  "requestFramePermissions": []
+}
